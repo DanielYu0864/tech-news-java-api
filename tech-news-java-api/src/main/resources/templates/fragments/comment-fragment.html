@@ -11,7 +11,7 @@
 <article class="comment" th:fragment="comment-fragment">
     <h1>User Comments</h1>
     <div class="title" th:each="comment: ${commentList}">
-        
+
         <li th:text="${comment.commentText}">
         </li>
 
