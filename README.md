@@ -14,7 +14,7 @@ The project allows the users to register and log in tobe post or edit tech artic
 
 ![register_gif](./gif/register.gif)
 
-### Comment & upvote
+### Post & Comment & Upvote
 
 ![post_comment_gif](./gif/post-and-comment.gif)
 
